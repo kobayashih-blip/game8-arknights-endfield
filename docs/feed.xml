@@ -5,8 +5,15 @@
     <link>https://game8.jp/arknights-endfield/search?q=</link>
     <description>Game8『アークナイツ：エンドフィールド』の記事を最終更新日時順で配信</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 15 Sep 2026 02:17:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 02:45:58 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ゾアン・ファンイのおすすめ装備と編成・武器【アークナイツ】</title>
+      <link>https://game8.jp/arknights-endfield/768639</link>
+      <guid isPermaLink="true">https://game8.jp/arknights-endfield/768639</guid>
+      <pubDate>Tue, 15 Sep 2026 11:43:00 +0900</pubDate>
+      <description>エンドフィールドのゾアンのおすすめ装備と編成・武器です。アークナイツエンドフィールドゾアンのおすすめ装備や編成、武器だけでなくスキル上げ優先度、特化優先度や凸、声優についても詳しく掲載し...</description>
+    </item>
     <item>
       <title>アイビーエナのおすすめ装備と武器・編成【アークナイツ】</title>
       <link>https://game8.jp/arknights-endfield/687528</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://game8.jp/arknights-endfield/797912</guid>
       <pubDate>Tue, 15 Sep 2026 10:17:00 +0900</pubDate>
       <description>エンドフィールドの焔銅装備部品の図面と入手方法の記事です。エンドフィールド焔銅装備部品の入手場所についてはもちろん、効果や使い方、製造方法についても掲載しています。アークナイツエンドフィ...</description>
-    </item>
-    <item>
-      <title>ガスの収集場所と使い道・運び方【アークナイツ】</title>
-      <link>https://game8.jp/arknights-endfield/799964</link>
-      <guid isPermaLink="true">https://game8.jp/arknights-endfield/799964</guid>
-      <pubDate>Tue, 15 Sep 2026 10:17:00 +0900</pubDate>
-      <description>エンドフィールドのガスの収集場所と使い道・運び方の記事です。エンドフィールドのガスの収集場所だけでなく使い道やガスを使ったアイテムの生産区が必要になるクエスト一覧、運び方まで掲載している...</description>
     </item>
   </channel>
 </rss>
